@@ -1,3 +1,14 @@
 @charset "UTF-8";
 /* CSS Document */
-
+img {
+	border:solid 3px orange;
+	padding:10px;
+}
+.styledFont {
+      font-size: 14px;
+	  font:"MS Serif", "New York", serif;
+      text-transform: uppercase;
+      color: #303030;
+      font-weight: 600;
+      margin-bottom: 30px;
+  }
