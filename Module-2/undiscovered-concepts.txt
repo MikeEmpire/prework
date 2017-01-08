@@ -1,0 +1,10 @@
+Angular is a front-end Javascript framework that adds interactivity to the HTML. 
+BDD - Behavior driven development
+TDD - tests driven development
+React- a Javascript library used to create UI efficiently. 
+LAMP - a web stack that uses Linux as its base.
+DynamoDB - a different type of noSQL that provides fast and predictable performance with seamless scalability.
+Node - platform built on Chrome’s Javascript runtime building fast and scalable applications.
+Yeoman - Yeoman runs as a command-line interface written for Node.js and which combines several functions into one place, such as generating a starter template, managing dependencies, running unit tests, providing a local development server, and optimizing production code for deployment
+Laravel - free, open source PHP web framework.
+ASP.NET - open source framework designed for web development to produce dynamic web pages
