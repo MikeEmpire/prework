@@ -1,5 +1,5 @@
 // JavaScript Document
 $('#button1').on("click", function() {
-	$('#box').css("background-color", "green");
+	$('#box').animate({width: 200, height: 200}, 1000);
 })
 
