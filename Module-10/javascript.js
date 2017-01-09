@@ -35,6 +35,7 @@ $('#button4').on("click", function() {
 })
 
 $('#button6').on("click", function() {
+	$('#box').effect("shake", {times:4}, 1000);
 })
 
 $('#button7').on("click", function() {
