@@ -17,6 +17,9 @@ $('#button4').on("click", function() {
 	, 1000)
 })
 
+$('#button5').on("click", function() {
+	$('#box')
+})
 
 
 $('#button7').on("click", function() {
